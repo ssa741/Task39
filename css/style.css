@@ -1,0 +1,32 @@
+.gc-img {
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-image: url('../images/whitecode.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    background-color: antiquewhite;
+}
+
+h2  {
+    color: rebeccapurple;
+}
+
+nav {
+    color: darkslategrey;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-block: solid black;
+}
+
+p {
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
